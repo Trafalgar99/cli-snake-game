@@ -1,0 +1,15 @@
+# CMake产生的文件
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+Makefile
+
+# 如果你使用的是不同的构建目录，也要忽略那个目录
+build/
+
+# 编辑器临时文件，如 Visual Studio Code
+.vscode/
+
+# 其他你不希望被Git追踪的文件，比如可执行文件，日志文件等
+*.exe
+*.log
